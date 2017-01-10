@@ -1,3 +1,3 @@
 # dart450
-Winer 2017 web cass
+Winter 2017 web class
 This is the repository for my class work for DART 450
