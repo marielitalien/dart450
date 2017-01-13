@@ -26,3 +26,15 @@ p {
 img {
   width: 100%;
 }
+
+#red {
+  background-color: red;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#yellow {
+  background-color: yellow;
+}
