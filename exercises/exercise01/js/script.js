@@ -1,1 +1,3 @@
 confirm('Hello.');
+
+prompt ("What?");
