@@ -1,3 +1,3 @@
 confirm('Hello.');
 
-prompt ("What?");
+prompt ("What is your name?");
